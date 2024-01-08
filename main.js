@@ -2,7 +2,7 @@ const h1 = document.createElement('h1');
 document.body.append(h1);
 h1.textContent = 'Player Playlist Manual';
 // data
-import playlist from "./playlist.js";
+import playlist from "playlist.js";
 // render
 renderPlaylist(playlist);
 function renderPlaylist(playlistForRendering) {    

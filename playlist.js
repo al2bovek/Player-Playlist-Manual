@@ -2,8 +2,8 @@ const playlist = {
     id: 1,
     info: {
         artist: 'Artist',
-        album: 'Álbum',
-        img: '../img/manual.png',
+        album: 'Album',
+        img: 'img/manual.png',
         tracks: 2
     },
     tracks: [

@@ -9,8 +9,8 @@ const playlist = {
     tracks: [
         {title: 'Песенка',
          time: '3:18',
-         img: './img/manual.png',
-         src: './audio/Песенка.mp3',
+         img: '../img/manual.png',
+         src: '../audio/Песенка.mp3',
         },
         {title: 'Песенка',
          time: '3:18',

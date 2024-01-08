@@ -3,7 +3,7 @@ const playlist = {
     info: {
         artist: 'Artist',
         album: 'Álbum',
-        img: './manual.png',
+        img: 'manual.png',
         tracks: 2
     },
     tracks: [
